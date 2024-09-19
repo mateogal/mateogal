@@ -122,3 +122,5 @@ My experience is complemented by a strong interest in full-stack web development
 
 ### Github stats
 [![mateogal's GitHub stats](https://github-readme-stats-mateo-galagorris-projects.vercel.app/api?username=mateogal&show_icons=true&bg_color=00000000&theme=highcontrast)](https://github-readme-stats-mateo-galagorris-projects.vercel.app/)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mateogal)](https://github.com/ryo-ma/github-profile-trophy)
