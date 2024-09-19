@@ -109,7 +109,7 @@ My experience is complemented by a strong interest in full-stack web development
 ---
 
 ### Contact
-✉️ E-mail: mailto:hello@mateogal.com
+✉️ E-mail: [hello@mateogal.com](mailto:hello@mateogal.com)
 
 🌎 Website: https://mateogal.com
 
