@@ -38,6 +38,9 @@ My experience is complemented by a strong interest in full-stack web development
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="./icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
     </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="./icons/bootstrap/bootstrap-original-wordmark.svg" alt="react" width="60" height="60" />
+    </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src='./icons/laravel/laravel-original.svg' width="60" height="60" />
     </a>
