@@ -33,7 +33,7 @@ My experience is complemented by a strong interest in full-stack web development
         <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60" />
     </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="./icons/express/express-original-wordmark.svg" alt="express" width="60" height="60" />
+        <img src="./icons/express/express-original.svg" alt="express" width="60" height="60" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="./icons/react/react-original-wordmark.svg" alt="react" width="60" height="60" />
