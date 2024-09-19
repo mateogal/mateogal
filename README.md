@@ -120,6 +120,7 @@ My experience is complemented by a strong interest in full-stack web development
 ### :brain: Currently working on
 - [Netspion](https://github.com/mateogal/netspion) : A tool with useful pre-defined techniques for ethical hacking.
 - [Syscripts](https://github.com/mateogal/syscripts) : Scripts that I made to solve particular situations on my day-to-day.
+- My home lab and home automation. 😄👷
 
 ---
 
