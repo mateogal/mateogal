@@ -104,6 +104,9 @@ My experience is complemented by a strong interest in full-stack web development
     <a href="https://www.fortinet.com/" target="_blank" rel="noreferrer">
         <img src="./icons/fortinet/fortinet-logo.svg" alt="fortinet" width="60" height="60" />
     </a>
+    <a href="https://www.veeam.com/" target="_blank" rel="noreferrer">
+        <img src="./icons/veeam/veeam.png" alt="fortinet" width="60" height="60" />
+    </a>
 </p>
 
 ---
