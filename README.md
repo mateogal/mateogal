@@ -105,7 +105,7 @@ My experience is complemented by a strong interest in full-stack web development
         <img src="./icons/fortinet/fortinet-logo.svg" alt="fortinet" width="60" height="60" />
     </a>
     <a href="https://www.veeam.com/" target="_blank" rel="noreferrer">
-        <img src="./icons/veeam/veeam.png" alt="fortinet" width="60" height="60" />
+        <img src="./icons/veeam/veeam.png" alt="fortinet" width="100" height="60" />
     </a>
 </p>
 
