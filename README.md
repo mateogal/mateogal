@@ -29,9 +29,6 @@ My experience is complemented by a strong interest in full-stack web development
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="./icons/css3/css3-plain-wordmark.svg" alt="css3" width="60" height="60" />
     </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-        <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60" />
-    </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="./icons/express/express-original.svg" alt="express" width="60" height="60" />
     </a>
